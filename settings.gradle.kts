@@ -8,3 +8,5 @@ pluginManagement {
 }
 
 include("m1l1-hello")
+include("vacancy-acceptance")
+

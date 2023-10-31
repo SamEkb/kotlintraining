@@ -1,0 +1,1 @@
+package ru.kilanov.vacancy
